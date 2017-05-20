@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1495254564 source:/home/steven/Projects/Snake/main.cpp
+	<SFML/Graphics.hpp>
+	<iostream>
+	<queue>
+	<algorithm>
+
